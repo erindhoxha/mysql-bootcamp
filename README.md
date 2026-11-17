@@ -2,7 +2,14 @@
 
 My SQL work from **[The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)** (Colt Steele, Udemy): schemas, exercises and queries, written and run against MySQL 8.4.
 
-<!-- CERTIFICATE -->
+[![Udemy certificate of completion](https://img.shields.io/badge/Udemy-Certificate%20of%20Completion-A435F0?logo=udemy&logoColor=white)](https://ude.my/UC-bd71dfae-c63d-4e8a-9dcf-01cd29b11f8a)
+![MySQL 8.4](https://img.shields.io/badge/MySQL-8.4-4479A1?logo=mysql&logoColor=white)
+
+## Certificate
+
+Completed November 2026 (18 total hours). [Verify on Udemy](https://ude.my/UC-bd71dfae-c63d-4e8a-9dcf-01cd29b11f8a) · [PDF](certificate/certificate.pdf)
+
+<a href="https://ude.my/UC-bd71dfae-c63d-4e8a-9dcf-01cd29b11f8a"><img src="certificate/certificate.png" alt="Certificate of completion: The Ultimate MySQL Bootcamp" width="600"></a>
 
 ## What's inside
 
